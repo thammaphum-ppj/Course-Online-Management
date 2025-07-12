@@ -9,7 +9,7 @@
 ## เทคโนโลยีและเครื่องมือที่ใช้
 
 ### Backend
-- **Next.js**  
+- **Nest.js**  
   ใช้พัฒนา API และรองรับ Server-Side Rendering (SSR) ช่วยให้ระบบทำงานเร็วและเหมาะกับ SEO
 - **Prisma ORM**  
   เชื่อมต่อและจัดการฐานข้อมูล PostgreSQL ด้วย Object-Relational Mapping (ORM) ทำให้เขียนคำสั่งฐานข้อมูลง่ายและปลอดภัย
